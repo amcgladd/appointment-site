@@ -1,7 +1,21 @@
+.container {
+  margin-top: 100px;
+}
+
 #entry {
   margin-top:30px;
 }
 
 #submitButton {
   float: right;
+}
+
+#confirmation {
+  display: none;
+}
+
+#message {
+  text-align: center;
+  float: right;
+  margin-top: 30px;
 }
